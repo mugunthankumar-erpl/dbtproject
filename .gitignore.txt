@@ -1,0 +1,4 @@
+HELP.md
+dbt_venv/
+logs/
+

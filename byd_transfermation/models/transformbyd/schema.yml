@@ -10,3 +10,11 @@ sources:
         description: 'Material'
       - name: EMPLOYEE
         description: 'employee'
+      - name: CUSTOMER
+        description: 'employee'
+      - name: PURCHASEORDER
+        description: 'employee'
+      - name: SALESORDER
+        description: 'employee'
+      - name: SERVICE
+        description: 'employee'

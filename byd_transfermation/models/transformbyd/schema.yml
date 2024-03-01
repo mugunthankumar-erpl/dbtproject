@@ -1,0 +1,12 @@
+version: 2
+ 
+sources:
+  - name: BYD_DATA_DB
+    description: 'byd database'
+    database: BYD_DATA_DB
+    schema: PUBLIC
+    tables:
+      - name: MATERIAL
+        description: 'Material'
+      - name: EMPLOYEE
+        description: 'employee'
